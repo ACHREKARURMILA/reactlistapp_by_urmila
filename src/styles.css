@@ -1,15 +1,15 @@
-
 #data-grid-demo {
     min-height: 900px;
     margin : 10%;
     font-size: 18px;
     font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+    background:#;
 }
 
 
 .dx-toolbar {
-    background-color: rgba(191, 191, 191, .15);
+    background-color: #208bf7;
     padding: 5px 10px;
 }
  
